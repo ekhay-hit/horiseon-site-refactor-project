@@ -58,7 +58,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-.content-art {
+.content-article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -109,7 +109,7 @@ p {
     padding-bottom: 32px;
 }
 
-.benefit-art{
+.benefit-article{
     margin-bottom: 46px;
     color: #ffffff;
     h3 {
