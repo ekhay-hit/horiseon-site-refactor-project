@@ -17,7 +17,7 @@ Added the comment to HTML and CSS
 N/A
 
 ## Usage
-
+The site provide different tools for promoting customers' site. 
 
 
 ## Credits
