@@ -27,3 +27,12 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
+
+## Link and screenShot
+* link to the deployed application: https://ekhay-hit.github.io/horiseon-site-refactor-project/
+
+* ScreenShot for the deployed application:
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
